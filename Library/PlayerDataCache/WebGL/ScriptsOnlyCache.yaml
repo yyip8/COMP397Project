@@ -1,18 +1,14 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
-    - CameraControl
     - DisplayNumber
     - Hero
     - KeyController
     - KeySpawner
     - MenuController
-    - MouseComponent
     - PlaySoundOnCollision
     - PlayerController
     - PlayerKeyCollect
-    - PlayerMovement
-    - PushPhysics
     - WIN
     - WayPoint
     - endGoal
@@ -216,15 +212,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 18016}
     - Class: 114
-      Script: {instanceID: 18618}
-    - Class: 114
-      Script: {instanceID: 18836}
-    - Class: 114
-      Script: {instanceID: 19310}
-    - Class: 114
       Script: {instanceID: 19566}
-    - Class: 114
-      Script: {instanceID: 19768}
     - Class: 114
       Script: {instanceID: 20066}
     - Class: 114
@@ -245,8 +233,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 22124}
     - Class: 114
       Script: {instanceID: 22518}
-    - Class: 114
-      Script: {instanceID: 25154}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1250,4 +1236,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/scene2.unity
-  playerPath: /Users/lento/COMP391GroupProject/WebGLBuild
+  playerPath: /Users/lento/COMP397Project/WebGLBuild

@@ -162,8 +162,8 @@
       "DisplayName": "Writing UnityEngine.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
-      "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/lento/COMP391GroupProje",
+      "PayloadLength": 27,
+      "PayloadDebugContentSnippet": "/Users/lento/COMP397Project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -174,7 +174,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/UnityEngine.TestRunner.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 232,
+      "PayloadOffset": 227,
       "PayloadLength": 41669,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -187,9 +187,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/UnityEngine.TestRunner.rsp2",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 41995,
-      "PayloadLength": 45,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/lento/COMP391",
+      "PayloadOffset": 41990,
+      "PayloadLength": 40,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/lento/COMP397",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/UnityEngine.TestRunner.rsp2"
@@ -1597,7 +1597,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/UnityEngine.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 42143,
+      "PayloadOffset": 42133,
       "PayloadLength": 5463,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -1756,9 +1756,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEngine.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 47711,
-      "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/lento/COMP391GroupProje",
+      "PayloadOffset": 47701,
+      "PayloadLength": 27,
+      "PayloadDebugContentSnippet": "/Users/lento/COMP397Project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -1769,7 +1769,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.rsp",
       "DisplayName": "Writing UnityEngine.UI.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 47828,
+      "PayloadOffset": 47813,
       "PayloadLength": 35237,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -1782,9 +1782,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.rsp2",
       "DisplayName": "Writing UnityEngine.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 83151,
-      "PayloadLength": 45,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/lento/COMP391",
+      "PayloadOffset": 83136,
+      "PayloadLength": 40,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/lento/COMP397",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.rsp2"
@@ -2119,7 +2119,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 83291,
+      "PayloadOffset": 83271,
       "PayloadLength": 5556,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -2280,9 +2280,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.AI.Navigation.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.AI.Navigation.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 88957,
-      "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/lento/COMP391GroupProje",
+      "PayloadOffset": 88937,
+      "PayloadLength": 27,
+      "PayloadDebugContentSnippet": "/Users/lento/COMP397Project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.AI.Navigation.UnityAdditionalFile.txt"
@@ -2293,7 +2293,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.AI.Navigation.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 89079,
+      "PayloadOffset": 89054,
       "PayloadLength": 28545,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -2306,9 +2306,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.AI.Navigation.rsp2",
       "DisplayName": "Writing Unity.AI.Navigation.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 117715,
-      "PayloadLength": 45,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/lento/COMP391",
+      "PayloadOffset": 117690,
+      "PayloadLength": 40,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/lento/COMP397",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.AI.Navigation.rsp2"
@@ -2568,7 +2568,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.AI.Navigation.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 117860,
+      "PayloadOffset": 117830,
       "PayloadLength": 5631,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -2731,9 +2731,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.TextMeshPro.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 123599,
-      "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/lento/COMP391GroupProje",
+      "PayloadOffset": 123569,
+      "PayloadLength": 27,
+      "PayloadDebugContentSnippet": "/Users/lento/COMP397Project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -2744,7 +2744,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.TextMeshPro.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 123719,
+      "PayloadOffset": 123684,
       "PayloadLength": 33291,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -2757,9 +2757,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.TextMeshPro.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 157099,
-      "PayloadLength": 45,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/lento/COMP391",
+      "PayloadOffset": 157064,
+      "PayloadLength": 40,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/lento/COMP397",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.TextMeshPro.rsp2"
@@ -3055,7 +3055,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.TextMeshPro.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 157242,
+      "PayloadOffset": 157202,
       "PayloadLength": 5631,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -3218,9 +3218,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.Timeline.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 162978,
-      "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/lento/COMP391GroupProje",
+      "PayloadOffset": 162938,
+      "PayloadLength": 27,
+      "PayloadDebugContentSnippet": "/Users/lento/COMP397Project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -3231,7 +3231,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.Timeline.rsp",
       "DisplayName": "Writing Unity.Timeline.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 163095,
+      "PayloadOffset": 163050,
       "PayloadLength": 34360,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -3244,9 +3244,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.Timeline.rsp2",
       "DisplayName": "Writing Unity.Timeline.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 197541,
-      "PayloadLength": 45,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/lento/COMP391",
+      "PayloadOffset": 197496,
+      "PayloadLength": 40,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/lento/COMP397",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.Timeline.rsp2"
@@ -3556,7 +3556,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.Timeline.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 197681,
+      "PayloadOffset": 197631,
       "PayloadLength": 5631,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -3719,9 +3719,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 203429,
-      "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/lento/COMP391GroupProje",
+      "PayloadOffset": 203379,
+      "PayloadLength": 27,
+      "PayloadDebugContentSnippet": "/Users/lento/COMP397Project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -3732,7 +3732,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Core.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 203558,
+      "PayloadOffset": 203503,
       "PayloadLength": 81607,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -3745,9 +3745,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Core.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 285263,
-      "PayloadLength": 45,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/lento/COMP391",
+      "PayloadOffset": 285208,
+      "PayloadLength": 40,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/lento/COMP397",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Core.rsp2"
@@ -4411,7 +4411,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 285415,
+      "PayloadOffset": 285355,
       "PayloadLength": 5631,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -4574,9 +4574,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 291163,
-      "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/lento/COMP391GroupProje",
+      "PayloadOffset": 291103,
+      "PayloadLength": 27,
+      "PayloadDebugContentSnippet": "/Users/lento/COMP397Project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -4587,7 +4587,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Flow.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 291292,
+      "PayloadOffset": 291227,
       "PayloadLength": 77158,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -4600,9 +4600,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Flow.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 368548,
-      "PayloadLength": 45,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/lento/COMP391",
+      "PayloadOffset": 368483,
+      "PayloadLength": 40,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/lento/COMP397",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Flow.rsp2"
@@ -5261,7 +5261,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 368700,
+      "PayloadOffset": 368630,
       "PayloadLength": 5718,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -5426,9 +5426,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 374536,
-      "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/lento/COMP391GroupProje",
+      "PayloadOffset": 374466,
+      "PayloadLength": 27,
+      "PayloadDebugContentSnippet": "/Users/lento/COMP397Project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -5439,7 +5439,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.State.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 374666,
+      "PayloadOffset": 374591,
       "PayloadLength": 31537,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -5452,9 +5452,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.State.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 406302,
-      "PayloadLength": 45,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/lento/COMP391",
+      "PayloadOffset": 406227,
+      "PayloadLength": 40,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/lento/COMP397",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.State.rsp2"
@@ -5744,7 +5744,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.State.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 406455,
+      "PayloadOffset": 406375,
       "PayloadLength": 5805,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -5911,9 +5911,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Assembly-CSharp.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 412366,
-      "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/lento/COMP391GroupProje",
+      "PayloadOffset": 412286,
+      "PayloadLength": 27,
+      "PayloadDebugContentSnippet": "/Users/lento/COMP397Project",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -5924,7 +5924,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 412484,
+      "PayloadOffset": 412399,
       "PayloadLength": 29295,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -5937,7 +5937,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 441866,
+      "PayloadOffset": 441781,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -6281,7 +6281,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 441962,
+      "PayloadOffset": 441877,
       "PayloadLength": 6126,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -6725,7 +6725,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Player/RuntimeInitializeOnLoads.json (+1 other)",
       "DisplayName": "BuildPlayerDataGenerator RuntimeInitializeOnLoads",
-      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.0f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.0f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"/Users/lento/COMP391GroupProject/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll\" -a=\"/Users/lento/COMP391GroupProject/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.dll\" -a=\"/Users/lento/COMP391GroupProject/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"/Users/lento/COMP391GroupProject/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll\" -a=\"/Users/lento/COMP391GroupProject/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"/Users/lento/COMP391GroupProject/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"/Users/lento/COMP391GroupProject/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"/Users/lento/COMP391GroupProject/Library/Bee/PlayerScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"/Users/lento/COMP391GroupProject/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll\" -a=\"/Users/lento/COMP391GroupProject/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"/Users/lento/COMP391GroupProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"/Applications/Unity/Hub/Editor/2022.3.0f1/PlaybackEngines/WebGLSupport/Managed\" -s=\"/Applications/Unity/Hub/Editor/2022.3.0f1/Unity.app/Contents/Managed/UnityEngine\" -s=\"/Applications/Unity/Hub/Editor/2022.3.0f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx\" -s=\"/Applications/Unity/Hub/Editor/2022.3.0f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"/Applications/Unity/Hub/Editor/2022.3.0f1/Unity.app/Contents/NetStandard/Extensions/2.0.0\" -s=\"/Applications/Unity/Hub/Editor/2022.3.0f1/Unity.app/Contents/NetStandard/ref/2.1.0\" -s=\"/Users/lento/COMP391GroupProject/Library/Bee/PlayerScriptAssemblies\" -s=\"/Users/lento/COMP391GroupProject/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"/Users/lento/COMP391GroupProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Player\" -rn=\"RuntimeInitializeOnLoads.json\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.0f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.0f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"/Users/lento/COMP397Project/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll\" -a=\"/Users/lento/COMP397Project/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.dll\" -a=\"/Users/lento/COMP397Project/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"/Users/lento/COMP397Project/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll\" -a=\"/Users/lento/COMP397Project/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"/Users/lento/COMP397Project/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"/Users/lento/COMP397Project/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"/Users/lento/COMP397Project/Library/Bee/PlayerScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"/Users/lento/COMP397Project/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll\" -a=\"/Users/lento/COMP397Project/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"/Users/lento/COMP397Project/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"/Applications/Unity/Hub/Editor/2022.3.0f1/PlaybackEngines/WebGLSupport/Managed\" -s=\"/Applications/Unity/Hub/Editor/2022.3.0f1/Unity.app/Contents/Managed/UnityEngine\" -s=\"/Applications/Unity/Hub/Editor/2022.3.0f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx\" -s=\"/Applications/Unity/Hub/Editor/2022.3.0f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"/Applications/Unity/Hub/Editor/2022.3.0f1/Unity.app/Contents/NetStandard/Extensions/2.0.0\" -s=\"/Applications/Unity/Hub/Editor/2022.3.0f1/Unity.app/Contents/NetStandard/ref/2.1.0\" -s=\"/Users/lento/COMP397Project/Library/Bee/PlayerScriptAssemblies\" -s=\"/Users/lento/COMP397Project/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"/Users/lento/COMP397Project/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Player\" -rn=\"RuntimeInitializeOnLoads.json\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "/Applications/Unity/Hub/Editor/2022.3.0f1/Unity.app/Contents/Tools/netcorerun/netcorerun",
         "/Applications/Unity/Hub/Editor/2022.3.0f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -6879,7 +6879,7 @@
   ],
   "StatSignatures": [
     {
-      "File": "/Users/lento/COMP391GroupProject/getconf"
+      "File": "/Users/lento/COMP397Project/getconf"
     },
     {
       "File": "Assets/csc.rsp"
@@ -6953,6 +6953,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/2000b0aP.dag.json",
-  "PayloadsFile": "/Users/lento/COMP391GroupProject/Library/Bee/2000b0aP.dag.payloads",
+  "PayloadsFile": "/Users/lento/COMP397Project/Library/Bee/2000b0aP.dag.payloads",
   "RelativePathToRoot": "../.."
 }
