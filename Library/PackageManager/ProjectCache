@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638214531310000000
+      ticks: 638214591830000000
     m_Hash: 3985084553
   m_LockFileStatus:
     m_FilePath: /Users/lento/COMP397Project/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638214531350000000
+      ticks: 638214591830000000
     m_Hash: 3783726218
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
